@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+	margin-top: 250px;
+	background-color: #C9E4E8;
+}
+
+#excuse {
+	color: purple;
+	background-color: #F2B4E5;
+	border: 3px solid purple;
+	border-radius: 80px;
+	padding: 15px;
+	margin-left: 325px;
+	font-family: 'Lato', cursive;
+	font-size: 32px;
+	width: 50%;
+}
+
+#excuse:hover {
+	color: white;
+	border: 3px solid white;
+}
+
+#click_here {
+	color: black;
+	font-weight: bold;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 28px;
+	background-color: #F26ED6;
+	width: 40%;
+	border: 5px solid white;
+	border-radius: 60px;
+	margin-left: 285px;
+	transform: rotate(1.5deg);
+
+}
